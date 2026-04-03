@@ -1,6 +1,6 @@
 # 💫 About Me:
-## 🚀 About Me
 Web & Android developer building clean, functional apps.
+
 🌐 Portfolio: https://uditpardeshi.in  
 ⚡ Alt: https://udit-pardeshi.vercel.app  
 ## 💻 Work
