@@ -1,7 +1,16 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>I build modern web apps and Android applications with a focus on clean UI, performance, and real-world usability.<br><br>- 🌐 Portfolio: https://uditpardeshi.in  <br>- ⚡ Alt Portfolio: https://udit-pardeshi.vercel.app  <br><br>I’ve developed multiple public projects and also worked on private client-style websites that are not publicly shareable.<br><br>---<br><br>## 💻 What I Do<br>- Build responsive websites and full-stack web apps  <br>- Develop Android apps with practical use-cases  <br>- Turn ideas into working, deployable products  <br><br>---<br><br>## 🧠 Current Work<br>- 🤖 Building a Discord bot with automation features  <br>- 🧠 Working on an AI agent project  <br>- 📈 Improving full-stack development & system design  <br><br>---<br><br>## ⚙️ Tech Direction<br>Frontend • Backend • APIs • Automation • AI Integration  <br><br>---<br><br>## 📫 Let’s Work<br>Open to freelance projects, collaborations, and job opportunities.  <br>If you need a website, app, or automation solution — let’s connect.
+## 🚀 About Me
+Web & Android developer building clean, functional apps.
+🌐 Portfolio: https://uditpardeshi.in  
+⚡ Alt: https://udit-pardeshi.vercel.app  
+## 💻 Work
+- Websites & full-stack apps  
+- Android applications  
+- Automation (Discord bot)  
+- AI agent (in progress)  
 
-
+## 📫 Open to
+Freelance work, collaborations, and job opportunities.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1170225052940251196) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_udit_pardeshi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uditpardeshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uditpardeshi@proton.me) 
 
