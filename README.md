@@ -64,21 +64,7 @@
 ### GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://stats-psi-self.vercel.app/api?username=uditpardeshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Udit's GitHub Stats" width="400" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://stats-psi-self.vercel.app/api/top-langs/?username=uditpardeshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditpardeshi&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="715" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditpardeshi&theme=tokyonight" alt="Udit's GitHub Contributions" />
 </div>
 
 ---
